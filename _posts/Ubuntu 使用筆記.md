@@ -1,14 +1,13 @@
 ---
 layout:     post
-title:      Ubuntu 使用笔记
-subtitle:   
-date:       2019-11-8 17:40:01
-author:     JerryLiu
-header-img: img/post-bg-cook.jpg
+title:      "Hello 2019"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2019-11-8 17:11:04
+author:     "JerryLiu"
+header-img: "img/post-bg-universe.jpg"
 catalog: true
 tags:
-    - Ubuntu
-    - Linux
+    - 生活
 ---
 
 ## Ubuntu 使用笔记
